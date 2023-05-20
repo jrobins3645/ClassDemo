@@ -26,6 +26,7 @@ struct Royce_Sample: View {
                 VStack {
                     Text("Rating")
                     Text("5.0/6.0")
+                    Text("Radeen Is Cool")
                 }
                 VStack {
                     Text("Pages")
